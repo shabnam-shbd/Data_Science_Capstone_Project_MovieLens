@@ -1,1 +1,2 @@
-# Data_Science_Capstone_Project_MovieLens
+# Data Science Capstone Project MovieLens
+Repository for Hardvard/Edx Data Science Professional Certificate Capstone Project
